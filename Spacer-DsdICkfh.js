@@ -1,0 +1,1 @@
+import{j as o}from"./jsx-runtime-ByGpHSPZ.js";import{S as r}from"./Space-CHVQsY9d.js";const s="_horizontalSpacer_kfkxv_3",t={horizontalSpacer:s},p=a=>o.jsx(r,{...a,className:`${t.horizontalSpacer} ${a.className}`});export{p as S};
